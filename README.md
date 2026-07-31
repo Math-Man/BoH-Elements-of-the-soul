@@ -30,3 +30,9 @@ Need `numpy`, `pillow` and `scipy`.
 
 - `python3 circularize.py <src_dir> <out_dir>` — squares to circular badges.
 - `python3 depthmaps.py badges <out_dir>` — badges to the heightmaps and normal maps above.
+
+
+## Why?
+
+I wanted to 3d print the icons as badges, that's all :)
+
