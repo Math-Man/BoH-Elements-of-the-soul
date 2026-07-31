@@ -34,5 +34,5 @@ Need `numpy`, `pillow` and `scipy`.
 
 ## Why?
 
-I wanted to 3d print the icons as badges, that's all :)
+I love this game and wanted to 3d print the icons as badges, that's all :)
 
