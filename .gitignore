@@ -1,11 +1,6 @@
 __pycache__/
 *.py[cod]
 
-# generated output
-BoH Icons Depth/
-*_height.png
-*_normal.png
-
 # never commit these
 *.conf
 *.key
