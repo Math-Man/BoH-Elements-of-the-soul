@@ -24,6 +24,10 @@ Heightmaps, one row each for the coin, relief and engraved profiles:
 
 To install: **Preferences → Asset Libraries → Add new**, enter the path to `.../BoH-Elements-of-the-soul/Blender Brushes`, then **Save Preferences**. The brushes show up in the asset browser and the sculpt-mode asset shelf under the `Custom` catalog.
 
+## Models
+
+I've included the models I made under the Models folder, as a blender file. The badges use a multires modifier, so set the level you want and export an STL from it to print.
+
 ## Scripts
 
 Need `numpy`, `pillow` and `scipy`.

@@ -5,6 +5,10 @@ __pycache__/
 *.blend1
 *.blend2
 
+# Full-res STL exports blow past GitHub's 100MB per-file limit.
+# The .blend carries the multires detail; re-export at the level you need.
+Models/*.stl
+
 # never commit these
 *.conf
 *.key
