@@ -6,7 +6,6 @@ Icons of the elements of the soul from Book of Hours, converted to circular imag
 
 ![Blender demo](Video/BlenderPreview.webp)
 
-Stamping the brushes in Blender. [Full quality video](Video/BlenderPreview.mp4).
 
 ![Circular badges](preview-badges.png)
 
