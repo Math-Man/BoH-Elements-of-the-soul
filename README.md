@@ -1,6 +1,6 @@
 # BoH Elements of the Soul
 
-> The source icons are from [Book of Hours](https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/). This repository holds only converted versions of them, not the original assets.
+> The source icons are from [Book of Hours](https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/) by Weather Factory. This repository holds only converted versions of them, not the original assets.
 
 Icons of the elements of the soul from Book of Hours, converted to circular images with various heightmaps.
 
