@@ -2,6 +2,10 @@
 
 Icons of the elements of the soul from Book of Hours, converted to circular images with various heightmaps.
 
+![Blender demo](Video/BlenderPreview.webp)
+
+Stamping the brushes in Blender. [Full quality video](Video/BlenderPreview.mp4).
+
 ![Circular badges](preview-badges.png)
 
 Heightmaps, one row each for the coin, relief and engraved profiles:
@@ -11,6 +15,12 @@ Heightmaps, one row each for the coin, relief and engraved profiles:
 `badges/` holds the nine finished badges: 336×336 PNG, RGBA, 324px disc.
 
 `heightmaps/<grain>/<profile>/` holds 16-bit heightmaps and matching normal maps, for the three profiles above and three grain treatments (`asis`, `mirrored`, `suppressed`). The light half of the original artwork carries a grain texture the dark half doesn't, so `mirrored` copies it across and `suppressed` removes it.
+
+## Blender brushes
+
+`Blender Brushes/` is a Blender asset library of nine sculpt brushes, one per icon, each stamping the `mirrored/coin` heightmap.
+
+To install: **Preferences → Asset Libraries → Add new**, enter the path to `.../BoH-Elements-of-the-soul/Blender Brushes`, then **Save Preferences**. The brushes show up in the asset browser and the sculpt-mode asset shelf under the `Custom` catalog.
 
 ## Scripts
 

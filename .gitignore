@@ -1,6 +1,10 @@
 __pycache__/
 *.py[cod]
 
+# Blender's rolling backups
+*.blend1
+*.blend2
+
 # never commit these
 *.conf
 *.key
