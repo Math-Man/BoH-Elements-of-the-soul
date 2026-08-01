@@ -1,6 +1,10 @@
 # BoH Elements of the Soul
 
-> The source icons are from [Book of Hours](https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/) by Weather Factory. This repository holds only converted versions of them, not the original assets.
+<img src="sixth-history/sixth-history-logo.png" alt="Sixth History" width="220">
+
+> BoH Elements of the Soul is an independent work by Math-Man and is not affiliated with Weather Factory Ltd, Secret Histories or any related official content. It is published under Weather Factory's [Sixth History Community Licence](https://weatherfactory.biz/sixth-history-community-licence/).
+>
+> The source icons are from [Book of Hours](https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/) by Weather Factory. This repository holds only converted versions of them, not the original assets. You can find out more and support Book of Hours at [weatherfactory.biz](https://weatherfactory.biz).
 
 Icons of the elements of the soul from Book of Hours, converted to circular images with various heightmaps.
 
