@@ -35,8 +35,8 @@ I've included the models I made under the Models folder, as a blender file. The 
 
 Need `numpy`, `pillow` and `scipy`.
 
-- `python3 circularize.py <src_dir> <out_dir>` — squares to circular badges.
-- `python3 depthmaps.py badges <out_dir>` — badges to the heightmaps and normal maps above.
+- `python3 circularize.py <src_dir> <out_dir>`: squares to circular badges.
+- `python3 depthmaps.py badges <out_dir>`: badges to the heightmaps and normal maps above.
 
 
 ## Why?
